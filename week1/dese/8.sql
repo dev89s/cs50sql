@@ -1,0 +1,1 @@
+SELECT districts.name, pupils FROM districts JOIN expenditures on district_id = districts.id;
